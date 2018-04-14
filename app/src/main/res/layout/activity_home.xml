@@ -5,8 +5,6 @@
     android:layout_height="match_parent"
     tools:context="com.example.lenovo.finalgp_test1.HomeActivity">
 
-   <include/>
-
     <ImageView
         android:id="@+id/backGround"
         android:layout_width="match_parent"

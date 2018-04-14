@@ -16,7 +16,6 @@
     <string-array name="Class">
         <item>"Economy"</item>
         <item>"Business"</item>
-        <item>"First"</item>
     </string-array>
     <string-array name="currencyFrom">
         <item>"Dollar"</item>
@@ -27,6 +26,12 @@
         <item>"Egyptian Pound"</item>
         <item>"Dollar"</item>
     </string-array>
+
+    <string-array name="filterBy">
+        <item>"Price"</item>
+        <item>"Rating"</item>
+    </string-array>
+
     <string name="title_activity_reserve_hotel">Map</string>
     <string name="title_activity_nav_drawer">NavDrawerActivity</string>
 

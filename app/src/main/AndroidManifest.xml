@@ -61,11 +61,11 @@
             android:label="@string/title_activity_navigation_drawer"
             android:theme="@style/AppTheme" />
         <activity android:name=".CurrencyConverterActivity" />
-        <activity android:name=".GenerateItenraryActivity" />
         <activity android:name=".ListOfCarsActivity" />
         <activity android:name=".ListOfToursActivity" />
         <activity android:name=".ReserveTourActivity" />
         <activity android:name=".CalendarFlight" />
+        <activity android:name=".GenerateItineraryActivity"></activity>
     </application>
 
 </manifest>
