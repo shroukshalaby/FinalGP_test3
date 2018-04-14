@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FinalGP_test1.iml" filepath="$PROJECT_DIR$/FinalGP_test1.iml" />
+      <module fileurl="file://E:\FinalGP_test2\FinalGP_test1.iml" filepath="E:\FinalGP_test2\FinalGP_test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FinalGP_test2.iml" filepath="$PROJECT_DIR$/FinalGP_test2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

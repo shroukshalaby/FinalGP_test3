@@ -26,7 +26,6 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
         <activity android:name=".LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -34,7 +33,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ToursActivity"/>
+        <activity android:name=".ToursActivity" />
         <activity android:name=".FlightActivity" />
         <activity android:name=".HotelActivity" />
         <activity android:name=".CalendarActivity" />
@@ -57,12 +56,16 @@
 
         <activity android:name=".ReserveHotelActivity" />
         <activity android:name=".ReserveCarActivity" />
-        <activity android:name=".NavigationDrawerActivity" />
+        <activity
+            android:name=".NavigationDrawerActivity"
+            android:label="@string/title_activity_navigation_drawer"
+            android:theme="@style/AppTheme" />
         <activity android:name=".CurrencyConverterActivity" />
         <activity android:name=".GenerateItenraryActivity" />
         <activity android:name=".ListOfCarsActivity" />
         <activity android:name=".ListOfToursActivity" />
-        <activity android:name=".ReserveTourActivity"></activity>
+        <activity android:name=".ReserveTourActivity" />
+        <activity android:name=".CalendarFlight" />
     </application>
 
 </manifest>
