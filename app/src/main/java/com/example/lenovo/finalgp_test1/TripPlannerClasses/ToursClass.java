@@ -1,4 +1,4 @@
-package com.example.lenovo.finalgp_test1;
+package com.example.lenovo.finalgp_test1.TripPlannerClasses;
 
 import java.util.Date;
 

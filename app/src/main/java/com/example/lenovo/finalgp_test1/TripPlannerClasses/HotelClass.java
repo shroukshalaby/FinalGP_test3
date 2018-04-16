@@ -1,4 +1,4 @@
-package com.example.lenovo.finalgp_test1;
+package com.example.lenovo.finalgp_test1.TripPlannerClasses;
 
 /**
  * Created by Lenovo on 3/03/2018.

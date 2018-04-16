@@ -10,6 +10,7 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
+import com.example.lenovo.finalgp_test1.TripPlannerClasses.CarClass;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;
