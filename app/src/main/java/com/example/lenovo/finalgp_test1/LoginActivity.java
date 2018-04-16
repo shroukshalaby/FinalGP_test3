@@ -44,11 +44,7 @@ public class LoginActivity extends AppCompatActivity {
             Intent i = new Intent(LoginActivity.this, HomeActivity.class);
             startActivity(i);
             finish();
-
-
         }
-
-
         et_username = (EditText) findViewById(R.id.email);
         et_password = (EditText) findViewById(R.id.password);
         requestQueue = Volley.newRequestQueue(this);
